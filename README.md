@@ -1,0 +1,2 @@
+# Yegor
+&lt;!DOCTYPE html> &lt;html lang="uk"> &lt;head>   &lt;meta charset="UTF-8">   &lt;title>Сайт Егора&lt;/title> &lt;/head> &lt;body>   &lt;h1>Вітаю на моєму сайті!&lt;/h1>   &lt;p>Цей сайт створений у рамках навчального завдання.&lt;/p>    &lt;h2>Навігація&lt;/h2>   &lt;ul>     &lt;li>&lt;a href="about.html">Про автора&lt;/a>&lt;/li>     &lt;li>&lt;a href="hobby.html">Моє хобі&lt;/a>&lt;/li>   &lt;/ul> &lt;/body> &lt;/html>
